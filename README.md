@@ -3,3 +3,4 @@ Here we will develop a general model for Speech Separation.Without any dependenc
 
 The first script will move ur data into folders wsj0-hin/tr , wsj0-hin/cv and wsj0-hin/tt.
 Make sure you create these three folders manually before running the script.
+An example of sample file as a result of the script.
